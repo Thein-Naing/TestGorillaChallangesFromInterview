@@ -28,9 +28,9 @@ True/false (either/or)
 
 `c. SQL/MYSQL queries (e.g how many employess with salary between $1500 to S1800 e.t.c)`
 
-`d. Data struuctures such as binary tree/linked list/stack/queue/heap/binary search tree/hashing/graph/and advanced concepts e.t.c.
+`d. Data struuctures such as binary tree/linked list/stack/queue/heap/binary search tree/hashing/graph/and advanced concepts e.t.c( you can name it)
 (To be able to answer these type of questions, you guys must be good enough or competent in computer science but I can answer a bit only)`
 
-`e. Technical and analytical skills test for programming and problem solving (you need to write down  with pencil on paper to illustrate answers for problems).`
+`e. Technical and analytical skills test for programming and problem solving (you need to write down with pencil on paper to illustrate answers for problems).`
 
 5. They want your comments afetr finishing each session (how do you feel the test)and after all finished you have to submit another form for your personal informations such as degree/diploma e.t.c.
