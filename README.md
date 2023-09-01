@@ -21,7 +21,7 @@ True/false (either/or)
 
 4.  This 5 different sessions are
 
-a.Algorithms test ( it is also not easy but not so difficult also)
+a.Algorithms test ( it is not easy but not so difficult also)
 
 b.Basic programming skills / you don't need to code but you have to solve the given problems by means of any necessary.
 
