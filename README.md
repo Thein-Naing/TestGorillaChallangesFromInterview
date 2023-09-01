@@ -1,2 +1,33 @@
 # TestGorillaChallanges
-` This is my experience from sitting TestGorillaChallanges coding test for software developer interview`
+` This is my experience from sitting TestGorillaChallanges coding test for interview`
+
+# TestGorillaChallanges Experience
+`In my honest opinion, you need to prepare very well for this kind of test.
+`
+
+1.There are 5 different sections for 50 minutes time interval for my case.
+
+2. Practice questions (as seen in my screen)
+
+You’ll receive 4 practice questions related to the test you are about to take, with 5 minutes to answer them.
+Practice questions provide an opportunity to see both the sort of questions asked and the platform layout. 
+Your answers to these questions do not contribute to your final score , nor does the employer see your answers to them.
+Tip: Practice questions are at the start of every test and include a gold call-out to prevent confusion.
+
+3.Most tests consist of three question types:
+Multiple-choice
+Multiple-select
+True/false (either/or)
+
+4.  This 5 different sessions are
+
+a.Algorithms test
+
+b.Basic programming skills / you don't need to code but you have to solve the given problem by means of any necessary.
+
+c.SQL/MYSQL queries
+
+d.Data struuctures such as binary tree/linked list/stack/queue/heap/binary search tree/hashing/graph/and advanced concepts e.t.c.
+(To be able to answer these type of questions, you must good enough in computer science but I can answer a bit only)
+
+e.Technical and analytical skills test for programming and problem solving (you need to write down  with pencil on paper to illustrate answers for problems)
