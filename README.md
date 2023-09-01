@@ -1,6 +1,5 @@
 # TestGorillaChallanges
-` This is my experience from sitting TestGorillaChallanges coding test for interview`
-
+` This is my experience from sitting TestGorillaChallanges coding test from hiring company`
 # TestGorillaChallanges Experience
 `In my honest opinion, you need to prepare very well for this kind of test.
 `
