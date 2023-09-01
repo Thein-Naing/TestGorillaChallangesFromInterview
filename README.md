@@ -33,4 +33,4 @@ True/false (either/or)
  
 `e. Technical and analytical skills test for programming and problem solving (you need to write down with pencil on paper to illustrate answers for problems).`
 
-5. They want your comments afetr finishing each session (how do you feel the test)and after all finished you have to submit another form for your personal informations such as degree/diploma e.t.c.
+5. They want your comments afetr finishing each session (`how do you feel the test:  you have to choose an emoji and explain why you choose this emoji`)and after all finished you have to submit another form for your personal informations such as degree/diploma e.t.c.
