@@ -31,3 +31,5 @@ d.Data struuctures such as binary tree/linked list/stack/queue/heap/binary searc
 (To be able to answer these type of questions, you must good enough in computer science but I can answer a bit only)
 
 e.Technical and analytical skills test for programming and problem solving (you need to write down  with pencil on paper to illustrate answers for problems)
+
+5. They want your comments afetr finishing each session (how do you feel the test)and after all finished you have to submit another form for your personal informations such as degree/diploma e.t.c.
