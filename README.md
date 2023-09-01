@@ -28,7 +28,7 @@ True/false (either/or)
 
 `c. SQL/MYSQL queries (e.g how many employess with salary between $1500 to S1800 e.t.c)`
 
-`d. Data struuctures such as binary tree/linked list/stack/queue/heap/binary search tree/hashing/graph/and advanced concepts e.t.c( you can name it)
+`d. Data structures such as binary tree/linked list/stack/queue/heap/binary search tree/hashing/graph/and advanced concepts e.t.c( you can name it)
 (To be able to answer these type of questions, you guys must be good enough or competent in computer science but I can answer a bit only)`
 
 `e. Technical and analytical skills test for programming and problem solving (you need to write down with pencil on paper to illustrate answers for problems).`
