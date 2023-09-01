@@ -1,5 +1,5 @@
 # TestGorillaChallanges
-` This is my experience from sitting TestGorillaChallanges coding test from hiring company.
+` This is my humble experience from sitting TestGorillaChallanges coding test from hiring company.
   All the time ,camera must  be on and you must maximize your screen all the time and you must open one tab for exam link only`
 # TestGorillaChallanges Experience
 `In my honest opinion, you need to prepare very well for this kind of test.
